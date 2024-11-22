@@ -1,0 +1,38 @@
+h1 {
+    text-align: left;font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-color:aquamarine ;
+}
+p {color: chocolate; text-align: center;}
+body{background-image: url(pngimg.com\ -\ farmer_PNG28.png);background-size:50%;}
+.title {
+    color:  red;
+}
+.list {
+    list-style-type: circle;
+}
+.list2 {
+    list-style-type: square;
+}
+.list3 {
+    list-style-type: lower-roman;
+}
+.title2 {
+    font-style: italic;
+}
+.title3 {
+    outline-style: dotted;
+}
+.čísla {
+    list-style: upper-roman;
+    color: brown;
+}
+.čísla2 {
+    list-style: upper-roman;
+    color: darkcyan;
+}
+.čísla3 {
+    list-style: upper-roman;
+    color: burlywood;
+}
